@@ -23,43 +23,52 @@ Airlines should increase seat availability, offer premium services, and launch b
 
 ---
 
-### 📍 Insight 2: **Top Origins of Travel**
-![Top Origins](insight_2.png)  
-Most trips originated from **Bangkok**, **Seoul**, and **Melbourne**.  
-> ✈️ *These cities are strategic hubs — great for resource planning.*
+#Insight 2: **Top Origins of Travel**
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_2.png 
+
+Most trips originated from Bangkok, Seoul, and Melbourne.
+Business Takeaway:
+These are high-frequency departure cities.
+Airlines can optimize scheduling, deploy larger aircraft, and streamline ground operations to minimize delays and handle volume more efficiently.
 
 ---
 
-### 📍 Insight 3: **Weekend vs Weekday Booking Trends**
-![Weekend Bookings](insight_3.png)  
-Only **24.7%** of all bookings were made for weekends.  
-> 📅 *Weekdays dominate — consider pricing and fleet optimization.*
+#Insight 3: **Weekend vs Weekday Booking Trends**
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_3.png  
+
+Only 24.7% of bookings happen on weekends.
+Business Takeaway:
+Airlines should launch weekend-only discounts, leisure packages, or event-based promotions to fill seats and increase weekend revenue.
 
 ---
 
-### 📍 Insight 4: **Most Popular Flight Routes**
-![Popular Routes](insight_4.png)  
-Top routes include **ICN → SYD**, **AKL → KUL**, and **MEL → SGN**.  
-> 🧭 *Data supports which routes need more flights or tiered services.*
+#Insight 4: **Most Popular Flight Routes**
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_4.png  
+
+Top routes include ICN → SYD, AKL → KUL, and MEL → SGN.
+Business Takeaway:
+Airlines can add more flights, apply dynamic pricing, or introduce route-specific loyalty programs to drive engagement and increase margins.
 
 ---
 
-### 📍 Insight 5: **Weekend Routes with Zero Confirmations**
-![Zero Weekend Confirmations](insight_5.png)  
-Some weekend routes had **100% unconfirmed** bookings.  
-> 🚨 *Alert ops team to review timing or customer mismatch.*
+#Insight 5: **Weekend Routes with Zero Confirmations**
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_5.png  
+
+Some weekend routes had 100% unconfirmed bookings.
+Business Takeaway:
+Airlines should test flexible cancellation offers, group travel bundles, or price drops to convert weekend browsers into bookers
 
 ---
 
-### 📍 Insight 6: **Cities with High Full-Service Uptake**
-![Full Service Usage](insight_6.png)  
-Passengers from **Visakhapatnam**, **Sydney**, and **Melbourne** often opt for full-service.  
-> 💼 *Great segment for bundled service promotions.*
-
+#Insight 6: **Cities with High Full-Service Uptake**
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_6.png 
+Passengers from Visakhapatnam, Sydney, and Melbourne often opt for full-service.
+Business Takeaway:
+Upsell luxury options, bundle meals + luggage, and reward loyal flyers in these regions to increase ancillary revenue.
 ---
 
-## 📊 Power BI Dashboard Sneak Peek
-![Dashboard Preview](final_dashboard.png)
+#Power BI Dashboard Sneak Peek
+
 
 ---
 
