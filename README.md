@@ -14,9 +14,12 @@ This project analyzes airline bookings to extract business insights across route
 * Key Insights (with Visuals)
 
  #Insight 1: **Top Destinations by Bookings**
-![Top Destinations](insight_1.png)  
-Passengers most frequently fly to **Sydney**, **Perth**, and **Taipei**.  
-> ✨ *Strong opportunity for marketing, dynamic pricing & upselling.*
+  https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_1.png
+
+Passengers most frequently fly to Sydney, Perth, and Taipei.
+Business Takeaway:
+These cities attract the highest incoming flight traffic.
+Airlines should increase seat availability, offer premium services, and launch bundled travel deals to boost revenue on these routes
 
 ---
 
