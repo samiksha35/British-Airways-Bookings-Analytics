@@ -68,11 +68,14 @@ Upsell luxury options, bundle meals + luggage, and reward loyal flyers in these 
 ---
 
 #Power BI Dashboard Sneak Peek
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/airport%20one%20way%20dashboard.png
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/final%20airport%20dashboard.png
 
+The dashboards reveal high booking activity from Australia and Asia, but a low confirmation rate overall. Most travelers book well in advance, prefer night flights, and travel early in the week. One-way trips show even lower conversions—highlighting the need for flexible offers and dynamic pricing.
 
 ---
 
-## 🔄 Workflow Summary
+* Workflow Summary
 
 1. **Python:** Cleaned messy data (missing values, case mapping, encoded weekend flights)
 2. **SQL:** Wrote 6 queries to uncover key patterns & behaviors
@@ -80,23 +83,27 @@ Upsell luxury options, bundle meals + luggage, and reward loyal flyers in these 
 
 ---
 
-## 🚀 Real-World Business Impact
-
-> 💣 **85% of bookings were cancelled**  
+* Real-World Business Impact
+>  **85% of bookings were cancelled**  
 This major insight could lead to:
 - Policy review for cancellation/refunds
 - UX improvements to booking flow
 - New strategy around demand forecasting
 
----
 
-## 🌱 What's Next?
+* Project Structure
+# british-airways-booking-analytics/
+   01_data_cleaning_and_exploration.ipynb
+   insight_1.png to insight_6.png
+   final_dashboard.png
+   cleaned_data.csv (optional)
+   README.md
 
-- Build a basic ML model to predict cancellations  
-- Add interactive filters for service types  
-- Deploy dashboard online using Power BI Gateway  
+* About Me
 
----
+I'm a 3nd year engineering student passionate about solving real-world business problems with data.  
+This project reflects my ability to clean messy data, write insightful SQL, and turn raw info into executive-ready dashboards.
 
-## 📁 Project Structure
+Let’s connect on https://www.linkedin.com/in/samiksha-sharma-3a1750281/
+
 
