@@ -1,11 +1,14 @@
 * British Airways Booking Analytics (Python + SQL + Power BI)
+
 An end-to-end data analytics project to explore and visualize booking behaviors for British Airways flights.  
 This project uncovers shocking cancellation trends, top routes, and full-service usage with Python, SQL & Power BI.
 
 * Project Overview
+  
 This project analyzes airline bookings to extract business insights across routes, travel timing, and passenger preferences. We cleaned real-world-like booking data in Python, wrote SQL to extract insights, and visualized everything with a glassmorphism-inspired Power BI dashboard.
 
 * Tech Stack
+
  1 Python: Data cleaning, transformation
  2 SQL: Extracting key business insights
  3 Power BI: Dashboard design and storytelling
@@ -68,6 +71,7 @@ Upsell luxury options, bundle meals + luggage, and reward loyal flyers in these 
 ---
 
 #Power BI Dashboard Sneak Peek
+
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/airport%20one%20way%20dashboard.png
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/final%20airport%20dashboard.png
 
