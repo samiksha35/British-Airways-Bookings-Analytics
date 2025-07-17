@@ -1,17 +1,17 @@
-* British Airways Booking Analytics (Python + SQL + Power BI)
+##  British Airways Booking Analytics (Python + SQL + Power BI)
 
 An end-to-end data analytics project to explore and visualize booking behaviors for British Airways flights.  
 This project uncovers shocking cancellation trends, top routes, and full-service usage with Python, SQL & Power BI.
 
 ---
 
-* Project Overview
+## Project Overview
   
 This project analyzes airline bookings to extract business insights across routes, travel timing, and passenger preferences. We cleaned real-world-like booking data in Python, wrote SQL to extract insights, and visualized everything with a glassmorphism-inspired Power BI dashboard.
 
 ---
-
-* Tech Stack
+ 
+ ## Tech Stack
 
  1 Python: Data cleaning, transformation
  
@@ -21,9 +21,9 @@ This project analyzes airline bookings to extract business insights across route
  
 ---
 
-* Key Insights (with Visuals)
+## Key Insights (with Visuals)
 
- #Insight 1: **Top Destinations by Bookings**
+## Insight 1: **Top Destinations by Bookings**
 
 
  https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_1.png
@@ -36,7 +36,7 @@ Airlines should increase seat availability, offer premium services, and launch b
 
 ---
 
-#Insight 2: **Top Origins of Travel**
+## Insight 2: **Top Origins of Travel**
 
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_2.png 
 
@@ -48,7 +48,7 @@ Airlines can optimize scheduling, deploy larger aircraft, and streamline ground 
 
 ---
 
-#Insight 3: **Weekend vs Weekday Booking Trends**
+## Insight 3: **Weekend vs Weekday Booking Trends**
 
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_3.png  
 
@@ -59,7 +59,7 @@ Airlines should launch weekend-only discounts, leisure packages, or event-based 
 
 ---
 
-#Insight 4: **Most Popular Flight Routes**
+## Insight 4: **Most Popular Flight Routes**
 
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_4.png  
 
@@ -70,7 +70,7 @@ Airlines can add more flights, apply dynamic pricing, or introduce route-specifi
 
 ---
 
-#Insight 5: **Weekend Routes with Zero Confirmations**
+## Insight 5: **Weekend Routes with Zero Confirmations**
 
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_5.png  
 
@@ -81,7 +81,7 @@ Airlines should test flexible cancellation offers, group travel bundles, or pric
 
 ---
 
-#Insight 6: **Cities with High Full-Service Uptake**
+## Insight 6: **Cities with High Full-Service Uptake**
 
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_6.png 
 
@@ -92,7 +92,7 @@ These cities show strong demand for premium services. Airlines can increase reve
  
 ---
 
-#Power BI Dashboard Sneak Peek
+## Power BI Dashboard Sneak Peek
 
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/airport%20one%20way%20dashboard.png
 https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/final%20airport%20dashboard.png
@@ -101,7 +101,7 @@ The dashboards reveal high booking activity from Australia and Asia, but a low c
 
 ---
 
-* Workflow Summary
+## Workflow Summary
 
 1. **Python:** Cleaned messy data (missing values, case mapping, encoded weekend flights)
 2. **SQL:** Wrote 6 queries to uncover key patterns & behaviors
@@ -109,7 +109,7 @@ The dashboards reveal high booking activity from Australia and Asia, but a low c
 
 ---
 
-* Real-World Business Impact
+## Real-World Business Impact
 >  **85% of bookings were cancelled**  
 This major insight could lead to:
 - Policy review for cancellation/refunds
@@ -118,23 +118,7 @@ This major insight could lead to:
 
 ---
 
-* Project Structure
-  
-british-airways-booking-analytics/
-
-   01_data_cleaning_and_exploration.ipynb
-   
-   insight_1.png to insight_6.png
-   
-   final_dashboard.png
-   
-   cleaned_data.csv 
-   
-   README.md
-
---- 
-
-* About Me
+## About Me
 
 I'm a 3rd year engineering student passionate about solving real-world business problems with data.  
 This project reflects my ability to clean messy data, write insightful SQL, and turn raw info into executive-ready dashboards.
