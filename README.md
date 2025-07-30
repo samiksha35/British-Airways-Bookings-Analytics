@@ -83,7 +83,7 @@ Airlines should test flexible cancellation offers, group travel bundles, or pric
 
 ## Insight 6: **Cities with High Full-Service Uptake**
 
-https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/Insight_6.png 
+https://github.com/samiksha35/British-Airways-Bookings-Analytics/blob/main/insight%206.png
 
 Passengers from Visakhapatnam, Sydney, and Melbourne often opt for full-service.
 
